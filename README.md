@@ -6,18 +6,18 @@
 ---
 > Node.js 를 설치하고 CMD에 다음과 같은 명령어를 입력합니다.
 
-Install Node.js and enter the following command in CMD.
+> Install Node.js and enter the following command in CMD.
 ```
 npm install discord.js@13.9
 ```
-'YOUR_BOT_TOKEN'에 봇 토큰을 입력하고 아래 명령어를 입력합니다.
+> 'YOUR_BOT_TOKEN'에 봇 토큰을 입력하고 아래 명령어를 입력합니다.
 
-Enter the bot token in 'YOUR_BOT_TOKEN' and enter the command below.
+> Enter the bot token in 'YOUR_BOT_TOKEN' and enter the command below.
 ```
 node calculate.js
 ```
-그 후 디스코드 서버에서 '!calculate 수식'을 사용해서 봇을 이용할 수 있습니다.
+> 그 후 디스코드 서버에서 '!calculate 수식'을 사용해서 봇을 이용할 수 있습니다.
 
-The bot is then available on the Discord server using the '!calculate formula'.
+> The bot is then available on the Discord server using the '!calculate formula'.
 
 ex) !calculate 1+2
