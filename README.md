@@ -1,12 +1,8 @@
 ### 디스코드 계산기 봇
 ### Discord Calculator Bot
 
-##### @@@@주의@@@@
-##### @@Caution@@
-
-이 봇은 discord.js v14 이후로는 작동하지 않습니다. v13으로 이용해 주세요.
-
-This bot will not work after discord.js v14. Please use v13.
+#### 이 봇은 discord.js v14 이후로는 작동하지 않습니다. v13으로 이용해 주세요.
+#### This bot will not work after discord.js v14. Please use v13.
 
 
 1. Node.js 를 설치하고 CMD에 다음과 같은 명령어를 입력합니다.
