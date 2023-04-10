@@ -19,6 +19,6 @@ client.on('messageCreate', msg => {
   }
 });
 
-// 클라이언트에 로그인한다.
+// 클라이언트에 토큰으로 로그인한다.
 // Log in to Discord with the client's token.
 client.login('YOUR_BOT_TOKEN');
