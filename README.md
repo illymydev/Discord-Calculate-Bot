@@ -20,5 +20,5 @@ node calculate.js
 
 > The bot is then available on the Discord server using the '!calculate formula'.
 ```
-ex) !calculate 1+2
+ex) !calculate 1-9*7
 ```
