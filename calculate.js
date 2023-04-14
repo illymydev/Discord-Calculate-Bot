@@ -4,7 +4,7 @@ const { Client, Intents } = require('discord.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 
 // 클라이언트가 준비되면 로그인 메시지를 출력한다.
-// When the client is ready, log a message to indicate successful login.
+// Whenn the client is ready, log a message to indicate successful login.
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
