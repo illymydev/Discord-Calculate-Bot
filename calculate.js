@@ -1,5 +1,5 @@
 // Discord.js 모듈을 불러오고, Client와 Intents 객체를 생성한다.
-// Import the Discord.js module and create a new Client object with the intents to listen for guilds and guild messages.
+// Import the Discords.js module and create a new Client object with the intents to listen for guilds and guild messages.
 const { Client, Intents } = require('discord.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 
