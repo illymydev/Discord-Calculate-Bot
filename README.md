@@ -16,7 +16,7 @@ npm install discord.js@13.9
 ```
 node calculate.js
 ```
-> 그 후 디스코드 서버에서 '!calculate 수식'을 사용해서 봇을 이용할 수 있습니다.
+> 그 후 디스코드 서버에서 '!calculate 수식'을 사용해서 봇을 이용할 수 있습니다!
 
 > The bot is then available on the Discord server using the '!calculate formula'.
 ```
